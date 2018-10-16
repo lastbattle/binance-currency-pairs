@@ -1,0 +1,1 @@
+# binance currency pairs
